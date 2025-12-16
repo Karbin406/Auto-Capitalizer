@@ -1,0 +1,1294 @@
+
+
+{2024-11-17 21-15-34}
+
+There are [1] words will be capatalized in current session  
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-17 21-19-24}
+
+There are [2] words will be capatalized in current session  
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to brtish people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+
+This is the [2] word that is being capatalized in current session: 
+
+         [miku]
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE MIKU does not talk to brtish people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-17 21-26-28}
+
+There are [2] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to brtish people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+        #This word is founded
+
+This is the [2] word that is being capatalized in current session: 
+
+         [bumb]
+        #This word is not founded
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to brtish people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-17 21-32-13}
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-17 21-33-37}
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+91823712983718273891723
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [1]
+       #This word is not founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+91823712983718273891723
+------------------------------
+
+
+
+
+
+{2024-11-17 21-39-38}
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku
+------------------------------
+
+
+
+
+
+
+
+{2024-11-17 21-43-44}
+
+User type str object for the cap_times which was suppoed to receive int object as input
+                        //////ValueError occured//////
+
+
+
+{2024-11-17 21-45-40}
+
+User type str object for the cap_times which was suppoed to receive int object as input
+                         //////ValueError occured//////
+
+
+
+{2024-11-17 21-46-31}
+
+User type str object for the cap_times which was suppoed to receive int object as input
+                         //////ValueError occured//////
+
+
+
+{2024-11-17 21-47-38}
+
+User type str object for the cap_times which was suppoed to receive int object as input
+                         //////ValueError occured//////
+
+
+
+
+{2024-11-17 21-47-51}
+
+User type str object for the cap_times which was suppoed to receive int object as input
+                         //////ValueError occured//////
+
+
+
+
+{2024-11-18 21-33-56}
+
+
+There are [2] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+This is the [2] word that is being capatalized in current session: 
+
+         [hfhweoifhi]
+       #This word is not founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-37-37}
+
+
+There are [2] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+This is the [2] word that is being capatalized in current session: 
+
+         [miku]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-43-32}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to brtish people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to brtish people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-46-32}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+Hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is not founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+Hatsune miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-48-38}
+
+
+There are [2] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+This is the [2] word that is being capatalized in current session: 
+
+         [miku]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-49-41}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-50-30}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-51-55}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [miku]
+       #This word is founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+hatsune MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-52-39}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [hatsune ]
+       #This word is not founded
+
+
+
+This is the final result of the capatalization: 
+
+------------------------------
+hatsune miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2024-11-18 21-54-04}
+
+
+There are [1] words will be capatalized in current session.
+This is the article that is being capatalized in current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capatalized in current session: 
+
+         [moawhefio]
+       #This word is not founded
+
+{2025-01-03 21-06-09}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [hatsune]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-01-05 21-54-32}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [hatsune]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+HATSUNE miku does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-01-05 21-56-41}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-00-52}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-03-19}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-03-47}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-04-03}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-06-15}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-07-18}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-07-51}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-08-39}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-09-12}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-12-12}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-12-49}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-13-49}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-20-59}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-21-44}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-22-43}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-24-05}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-25-10}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-05 22-25-21}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-37-04}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-41-06}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-41-37}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-47-13}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-51-58}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-52-35}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-53-48}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-55-04}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-56-35}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-57-10}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-57-46}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 21-58-49}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-00-02}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-02-01}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-03-58}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-04-42}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-06-42}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-07-04}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-07-43}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-08-07}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-09-03}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-07 22-10-09}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-36-07}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-38-23}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-41-00}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-41-30}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-42-34}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-44-03}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-44-41}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-45-09}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-45-26}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-45-45}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-46-05}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-47-18}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-48-32}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-48-54}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-49-22}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-49-51}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-50-29}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-55-58}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 20-57-53}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 21-17-41}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 21-19-30}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [hatsune miku]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+HATSUNE MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-01-08 21-23-14}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [hatsune miku]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+HATSUNE MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-01-08 21-26-41}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [hatsune miku]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+HATSUNE MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-01-08 21-30-31}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
+
+{2025-01-08 21-30-46}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [miku]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+hatsune MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-01-08 21-36-19}
+
+
+There are [1] words that will be capitalized in the current session.
+This is the article that is being capitalized in the current session: 
+
+-----------------------
+hatsune miku does not talk to british people
+----------------------
+
+
+
+This is the [1] word that is being capitalized in the current session: 
+
+         [miku]
+       #This word is found
+
+
+
+This is the final result of the capitalization: 
+
+------------------------------
+hatsune MIKU does not talk to british people
+------------------------------
+
+
+
+
+
+
+
+
+
+{2025-04-27 22-00-12}
+
+User typed str object for the cap_times which was supposed to receive int object as input
+                         //////ValueError occurred//////
+
+
+
