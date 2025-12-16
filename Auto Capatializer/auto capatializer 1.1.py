@@ -5,6 +5,7 @@ import re
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton, QTextEdit, QVBoxLayout, QHBoxLayout, QLineEdit, QLabel
 from PyQt5.QtGui import QIcon, QFont, QPainter, QPixmap, QImage
 from PyQt5.QtCore import Qt
+from bs4 import BeautifulSoup
 
 
 
@@ -16,7 +17,7 @@ class AutoCapitalizer(QWidget):
         self.setWindowTitle("Auto Capitalizer")
         self.setGeometry(50, 50, 1600, 900)
         
-        self.label1 = QLabel("Auto Capitalizer", self)
+        self.label1 = QLabel("Auto Capitalizer, please enter text and keywords via the terminals", self)
         self.label2 = QLabel("Your capitalized article are there")
         self.Result_display = QTextEdit(self)
         
@@ -73,7 +74,7 @@ class AutoCapitalizer(QWidget):
 
         except ValueError:
             print('You may type some words for the capitalize times, remember to type your words first')
-            with open(log_path, 'a') as file:
+            with open(log_path, 'a', encoding="utf-8") as file:
                 file.write(f"\n{now}\n")
                 file.write("User typed str object for the cap_times which was supposed to receive int object as input")
                 file.write(f"\n                         //////ValueError occurred//////\n\n\n\n")
@@ -83,7 +84,7 @@ class AutoCapitalizer(QWidget):
         article = input('''\n# Input your article #
     # Make sure the word spelling is all correct! Also make sure that the word has no pre-capitalized alphabet#\n\n''')
 
-        with open(log_path, 'a') as file:
+        with open(log_path, 'a', encoding="utf-8") as file:
             file.write(f"\n{now}\n")
             file.write(f"\nThere are [{cap_times}] words that will be capitalized in the current session.")
             file.write(f"\nThis is the article that is being capitalized in the current session: \n")
@@ -105,7 +106,7 @@ class AutoCapitalizer(QWidget):
             # Input the keyword {i + 1} you want to capitalize #
             ''').strip()
 
-            with open(log_path, 'a') as file:
+            with open(log_path, 'a', encoding="utf-8") as file:
                 file.write(f"\nThis is the [{i + 1}] word that is being capitalized in the current session: \n")
                 file.write(f'\n         [{cap_word}]\n')
 
@@ -122,7 +123,7 @@ class AutoCapitalizer(QWidget):
                     article = article[:start] + article[start:end].upper() + article[end:]
 
                 key_word_count = len(matches)
-                with open(log_path, 'a') as file:
+                with open(log_path, 'a', encoding="utf-8") as file:
                     file.write(f"       #This word is found\n")
                 time.sleep(1)
                 AutoCapitalizer.report(cap_word, key_word_count)
@@ -130,7 +131,7 @@ class AutoCapitalizer(QWidget):
             else:
                 time.sleep(1)
                 print (f'\nCannot find your word [{cap_word}] in the article \nPlease try another word for this one\n')
-                with open(log_path, 'a') as file:
+                with open(log_path, 'a', encoding="utf-8") as file:
                     file.write(f"       #This word is not found\n")
                 continue
 
@@ -140,7 +141,7 @@ class AutoCapitalizer(QWidget):
         print(f'''\nResult:  
         ''')
 
-        with open(log_path, 'a') as file:
+        with open(log_path, 'a', encoding="utf-8") as file:
             file.write(f"\n\n\nThis is the final result of the capitalization: \n")
             file.write(f'\n------------------------------')
             file.write(f'\n{final_result}\n')
